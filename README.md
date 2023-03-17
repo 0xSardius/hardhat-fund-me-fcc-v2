@@ -1,15 +1,5 @@
 # Hardhat FreeCodeCamp Course FundMe Project
 
-# Sample Hardhat Project
+Simple project allowing funding and testing of a smart contract with Hardhat.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+From lesson 7 of the hardhat-fcc course: https://youtu.be/gyMwXuJrbJQ
